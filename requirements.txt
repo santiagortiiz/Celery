@@ -1,0 +1,8 @@
+# Standard libraries
+python-dotenv
+
+# Redis
+redis
+
+# Celery
+celery

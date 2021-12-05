@@ -1,0 +1,5 @@
+# Start the worker
+celery -A project.celery worker -l INFO --pool=solo
+
+# Run the test
+py test.py
